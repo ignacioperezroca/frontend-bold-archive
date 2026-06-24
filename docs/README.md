@@ -1,3 +1,13 @@
-# Manifest Index
+# Frontend BOLD archive notes
 
-This repository documents the preservation state of the Frontend BOLD workspace. The manifest tracks each relevant folder, its classification, destination repository, final commit, Vercel URL, and preservation status.
+## Purpose
+Keep the preservation repo easy to navigate while separating archive guidance from the source-path manifest.
+
+## Structure
+- Root README for the public archive entry point
+- `docs/MANIFEST.md` for source-path inventory
+- `docs/INVENTORY.md` for collection-level notes
+
+## Maintenance
+- Keep this repo focused on preservation metadata.
+- Avoid mixing source projects into the manifest layer.
