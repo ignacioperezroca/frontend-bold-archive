@@ -13,7 +13,6 @@ This manifest tracks the relevant folders discovered in the workspace, their cla
 | `02_portfolio/porsche/porsche` | Independent website | `ignacioperezroca/porsche-portfolio` | `a2f0b5a` (see GitHub repo history) | `https://porsche-hazel.vercel.app` | Preserved and published |
 | `01_projects/2091/soundboard-website` | Independent website | `ignacioperezroca/soundboard-website` | `7f37081e5ac8df6f2e7a0c941cad6278b2bc6e6d` | `https://soundboard-website.vercel.app` | Preserved and published |
 | `01_projects/boulevard58/wwww` | Independent website | `ignacioperezroca/boulevard58` | `b5bf134ad35e641d7c8d5e8df77e593c0bf1975d` | `https://wwww-taupe.vercel.app` | Preserved and published |
-| `03_reference/bold www/www` | Independent website / legacy archive | `pending` (`ignacioperezroca/bold-studio` was attempted but could not be created/pushed in this session) | `e1d4c00` | `https://www-nu-two.vercel.app` | Locally preserved, migration blocked by GitHub auth |
 | `03_reference/bold www/www` | Independent website / legacy archive | `ignacioperezroca/bold-studio` | `4eb58fc7a549092f76174bf14627daab44d33454` | `https://bold-studio.vercel.app` | Preserved and published |
 | `01_projects/thet/_newletters/...` | Banner or campaign collection | `pending archive repo` | n/a | n/a | Classified as creative exports |
 | `01_projects/thet/banners/...` | Banner or campaign collection | `pending archive repo` | n/a | n/a | Classified as creative exports |
