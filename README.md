@@ -2,4 +2,8 @@
 
 Master preservation manifest for the Frontend BOLD workspace.
 
-See `MANIFEST.md` for the source-path inventory, classifications, GitHub destinations, and deployment status.
+## Layout
+
+- `docs/MANIFEST.md` - source-path inventory and preservation status
+- `README.md` - high-level archive guide
+
